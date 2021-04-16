@@ -6,7 +6,7 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.*;
 
-public class Main {
+public class ReadabilityScore {
 
     private static double characters = 0;
     private static double words = 0;
