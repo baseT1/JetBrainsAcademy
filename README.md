@@ -2,3 +2,4 @@
 
 **Java**
 - [x] Cinema room manager
+- [x] Readability Score 
