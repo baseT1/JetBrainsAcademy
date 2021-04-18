@@ -2,4 +2,5 @@
 
 **Java**
 - [x] Cinema room manager
-- [x] Readability Score 
+- [x] Readability score 
+- [x] Numeric matrix processor 
